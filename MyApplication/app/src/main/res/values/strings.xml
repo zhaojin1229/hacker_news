@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="api_news_list">https://hacker-news.firebaseio.com/v0/topstories.json</string>
+</resources>
